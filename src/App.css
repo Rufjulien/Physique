@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.lang-switcher {
+  margin: 10px;
+}
+
+.main-layout {
+  display: flex;
+}
+
+.App-sidebar {
+  width: 200px;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+.content-area {
+  flex-grow: 1;
+  padding: 20px;
+}
+
+.info-panel {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 20px;
+}
